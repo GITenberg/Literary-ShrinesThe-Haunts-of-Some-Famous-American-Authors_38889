@@ -1,0 +1,34 @@
+_repo: Literary-ShrinesThe-Haunts-of-Some-Famous-American-Authors_38889
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wolfe, Theodore F. (Theodore Frelinghuysen)
+    birthdate: 1847
+    deathdate: 1915
+    gutenberg_agent_id: '39700'
+    url: http://www.gutenberg.org/2009/agents/39700
+description: ''
+gutenberg_issued: '2012-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38889'
+  lccn: '43039716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Berkshire County (Mass.) -- Intellectual life'
+- !lcsh 'Authors, American -- Homes and haunts -- Massachusetts -- Boston'
+- !lcsh 'Massachusetts -- Intellectual life'
+- !lcc 'PS'
+- !lcsh 'Whitman, Walt, 1819-1892 -- Homes and haunts'
+- !lcsh 'Literary landmarks -- Massachusetts'
+- !lcsh 'Authors, American -- Homes and haunts -- Massachusetts -- Concord'
+- !lcsh 'Concord (Mass.) -- Intellectual life'
+- !lcsh 'Boston (Mass.) -- Intellectual life'
+title: 'Literary Shrines: The Haunts of Some Famous American Authors'
+url: http://www.gutenberg.org/ebooks/38889
